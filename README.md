@@ -6,9 +6,10 @@ The file websites.txt contains a list of 500 websites that have been found by on
 
 Your result should be in tabular format: a tab separated file with the following columns: 
 ```
-website            ecommerce
-solidswiss.cd      true
-stevemccurry.com   false
+website                ecommerce
+solidswiss.cd          true
+myparisianlife.com     true
+photographyblog.com    false
 ```
 
 ##Constraints
